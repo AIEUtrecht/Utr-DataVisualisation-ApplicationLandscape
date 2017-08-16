@@ -1,0 +1,42 @@
+{
+	"blocks": [
+		{
+			"identifier": "id-975530ee",
+			"blockType": "",
+			"label": "T24",
+			"documentation": "",
+			"fillColour": "50ff50",
+			"lineColour": "303030",
+			"x": 566,
+			"y": 255,
+			"z": 0,
+			"width": 120,
+			"height": 55,
+			"depth": 0
+		},
+		{
+			"identifier": "id-6ac23b20",
+			"blockType": "",
+			"label": "TCIB/MB+",
+			"documentation": "Temenos Connect Internet Banking; Prospect > Customer (EdgeConnect)",
+			"fillColour": "50ff50",
+			"lineColour": "303030",
+			"x": 326,
+			"y": 123,
+			"z": 0,
+			"width": 120,
+			"height": 55,
+			"depth": 0
+		}
+	],
+	"connections": [
+		{
+			"identifier": "id-99173080",
+			"connectionType": "",
+			"label": "Application data",
+			"sourceIdentifier": "id-975530ee",
+			"targetIdentifier": "id-6ac23b20",
+			"lineColour": "000000"
+		}
+	]
+}
